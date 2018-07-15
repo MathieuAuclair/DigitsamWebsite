@@ -1,2 +1,0 @@
-# TwentyThreeSolutions
-Company repo
